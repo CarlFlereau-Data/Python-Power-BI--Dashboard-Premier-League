@@ -56,6 +56,8 @@ Agrégations saisonnières
 
 📊 Partie Visualisation / Power BI
 
+<img width="500" height="314" alt="image" src="https://github.com/user-attachments/assets/ec9fa0bc-4066-4898-be44-3700fb36ee2d" />
+
 Objectifs :
 
 ✅ Comparaison inter-saisons

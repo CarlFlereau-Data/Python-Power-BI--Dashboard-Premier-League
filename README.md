@@ -57,6 +57,8 @@ Agrégations saisonnières
 📊 Partie Visualisation / Power BI
 
 <img width="500" height="314" alt="image" src="https://github.com/user-attachments/assets/ec9fa0bc-4066-4898-be44-3700fb36ee2d" />
+<img width="497" height="317" alt="image" src="https://github.com/user-attachments/assets/4a100ad8-329a-4a3f-a245-02a308e2b604" />
+
 
 Objectifs :
 

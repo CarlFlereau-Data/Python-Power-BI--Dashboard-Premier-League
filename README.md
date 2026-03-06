@@ -1,4 +1,4 @@
-⚽ Premier League Team Performance Dashboard
+# ⚽ Premier League Team Performance Dashboard
 🎯 Objectif du projet
 
 Ce projet propose une analyse comparative des équipes de Premier League sur les 10 dernières saisons.
